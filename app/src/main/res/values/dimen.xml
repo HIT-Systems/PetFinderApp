@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="splash_screen_height">450dp</dimen>
+    <dimen name="margin_small">10dp</dimen>
+    <dimen name="margin_medium">20dp</dimen>
+    <dimen name="margin_big">30dp</dimen>
+    <dimen name="animal_avatar_size">90dp</dimen>
+    <dimen name="animal_name_text_size">18sp</dimen>
+    <dimen name="use_constraints">0dp</dimen>
+</resources>
